@@ -1,0 +1,4 @@
+/myquant/ctp/vnpy/vnpy/api/ctp/build/CMakeFiles/rebuild_cache.dir
+/myquant/ctp/vnpy/vnpy/api/ctp/build/CMakeFiles/edit_cache.dir
+/myquant/ctp/vnpy/vnpy/api/ctp/build/CMakeFiles/vnctpmd.dir
+/myquant/ctp/vnpy/vnpy/api/ctp/build/CMakeFiles/vnctptd.dir
